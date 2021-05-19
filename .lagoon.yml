@@ -1,0 +1,10 @@
+docker-compose-yaml: docker-compose.yml
+
+# environments:
+#   main:
+#     routes:
+#       - nginx:
+#         - yourdomain.example.com:
+#             tls-acme: false
+#         - yourdomain2.example.com:
+#             tls-acme: false
