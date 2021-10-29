@@ -5,6 +5,6 @@ docker-compose-yaml: docker-compose.yml
 #     routes:
 #       - nginx:
 #         - yourdomain.example.com:
-#             tls-acme: false
+#             tls-acme: "false"
 #         - yourdomain2.example.com:
-#             tls-acme: false
+#             tls-acme: "false"
